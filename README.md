@@ -1,2 +1,0 @@
-# InterviewTask
-Created with CodeSandbox
